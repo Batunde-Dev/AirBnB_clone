@@ -67,3 +67,4 @@ The console will be a tool to validate this storage engine
 # Storage
 
 Persistency is really important for a web application. It means: every time your program is executed, it starts with all objects previously created from another execution. Without persistency, all the work done in a previous execution won’t be saved and will be gone.
+Static HTML and CSS web design
